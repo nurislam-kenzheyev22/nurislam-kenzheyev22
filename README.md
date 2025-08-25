@@ -12,7 +12,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&backspace=true&repeat=true&lines=Hello%2C+World!+I'm+Nurislam!;%F0%9F%8E%AD+iOS+Developer;%F0%9F%9A%80+Swift+Enthusiast;%F0%9F%8C%9F+Creating+Awesome+Apps!" alt="Typing SVG" />
+  <h2 style="color: #FF6B35; font-family: 'SF Pro Display', sans-serif; font-weight: 600; font-size: 28px;">
+    🚀 iOS Developer & Swift Enthusiast
+  </h2>
+  <p style="color: #FF6B35; font-family: 'SF Pro Display', sans-serif; font-size: 18px;">
+    Creating Awesome Apps!
+  </p>
 </div>
 
 

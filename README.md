@@ -24,27 +24,19 @@
 <div align="center">
 
 ### Status
-```
-Course: MobyDev iOS Developer
-Started: August 25, 2025
-
-Course: DevRush  
-Started: June 30, 2025
-```
+- **Course:** MobyDev iOS Developer  
+  Started: August 25, 2025
+- **Course:** DevRush  
+  Started: June 30, 2025
 
 ### Apps
-```
-BestRecipes - Recipe app (Swift, UIKit)
-Game-Millionaire - Quiz game (Swift, UIKit)
-```
+- **BestRecipes** - Recipe app (Swift, UIKit)
+- **Game-Millionaire** - Quiz game (Swift, UIKit)
 
 ### About
-```
-4th Year Software Engineering (IITU)
-Location: Almaty, Kazakhstan
-Chess Player
-Volleyball Player
-```
+- **Education:** 4th Year Software Engineering (IITU)
+- **Location:** Almaty, Kazakhstan
+- **Interests:** Chess Player, Volleyball Player
 
 </div>
 

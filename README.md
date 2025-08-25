@@ -19,31 +19,31 @@
 
 ---
 
-## 📱 iOS Developer Profile
+## iOS Developer Profile
 
 <div align="center">
 
-### 🎯 Status
+### Status
 ```
-📚 Course: MobyDev iOS Developer
+Course: MobyDev iOS Developer
 Started: August 25, 2025
 
-🚀 Course: DevRush  
+Course: DevRush  
 Started: June 30, 2025
 ```
 
-### 📱 Apps
+### Apps
 ```
-🍳 BestRecipes - Recipe app (Swift, UIKit)
-🎮 Game-Millionaire - Quiz game (Swift, UIKit)
+BestRecipes - Recipe app (Swift, UIKit)
+Game-Millionaire - Quiz game (Swift, UIKit)
 ```
 
-### 👨‍💻 About
+### About
 ```
-🎓 4th Year Software Engineering (IITU)
-🌍 Location: Almaty, Kazakhstan
-♟️ Chess Player
-🏐 Volleyball Player
+4th Year Software Engineering (IITU)
+Location: Almaty, Kazakhstan
+Chess Player
+Volleyball Player
 ```
 
 </div>

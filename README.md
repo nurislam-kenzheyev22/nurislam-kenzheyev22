@@ -15,18 +15,18 @@ print("🚀 iOS Developer | Swift Enthusiast")
 
 ---
 
-## 📱 Projects | ⚡ Skills | 👨‍💻 About | 📞 Contact
+## 📱 Projects | 👨‍💻 About | 📞 Contact
 
 <div align="center">
 
-| 📱 **Apps** | ⚡ **Skills** |
+| 📱 **Apps** | 👨‍💻 **About** |
 |---|---|
-| **🍳 BestRecipes** - iOS app for recipes | **Swift** ⭐⭐⭐⭐⭐ |
-| ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) | **UIKit** ⭐⭐⭐⭐⭐ |
-| [🔗 View](https://github.com/00giemensch/BestRecipes) | **SwiftUI** ⭐⭐⭐ |
-| | **Core Data** ⭐⭐⭐ |
-| **🎮 Game-Millionaire** - Quiz game | **Git** ⭐⭐⭐⭐ |
-| ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) | **Xcode** ⭐⭐⭐⭐ |
+| **🍳 BestRecipes** - iOS app for recipes | **🎓 4th Year Software Engineering** |
+| ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) | **🌍 Almaty, Kazakhstan** |
+| [🔗 View](https://github.com/00giemensch/BestRecipes) | **🎯 100 Days of Code: Day 1/100 ✅** |
+| | **♟️ Chess Master | 🏐 Volleyball Player** |
+| **🎮 Game-Millionaire** - Quiz game | **📚 Learning: Swift, UIKit, SwiftUI** |
+| ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) | **🎨 Passionate about UI/UX Design** |
 | [🔗 View](https://github.com/vvp-off/Game-Millionaire) | |
 
 </div>
@@ -34,14 +34,8 @@ print("🚀 iOS Developer | Swift Enthusiast")
 ---
 
 <div align="center">
-
-| 👨‍💻 **About** | 📊 **Stats** |
-|---|---|
-| **🎓 4th Year Software Engineering** | <img src="https://github-readme-stats.vercel.app/api?username=nurislam-kenzheyev22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35&include_all_commits=true&count_private=true" alt="GitHub Stats" /> |
-| **🌍 Almaty, Kazakhstan** | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurislam-kenzheyev22&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&currStreakLabel=FF6B35&sideNums=FFFFFF&sideLabels=FF6B35&dates=FFFFFF" alt="GitHub Streak" /> |
-| **🎯 100 Days of Code: Day 1/100 ✅** | |
-| **♟️ Chess Master | 🏐 Volleyball Player** | |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nurislam-kenzheyev22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurislam-kenzheyev22&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&currStreakLabel=FF6B35&sideNums=FFFFFF&sideLabels=FF6B35&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---

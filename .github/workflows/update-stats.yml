@@ -1,0 +1,28 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Обновляем статистику каждые 6 часов
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Update GitHub Stats
+      run: |
+        # Обновляем статистику GitHub
+        echo "🔄 Обновление статистики GitHub..."
+        
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "📊 Обновление статистики GitHub"
+        git push

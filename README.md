@@ -4,12 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;%F0%9F%8E%AD+iOS+Developer;%F0%9F%9A%80+Swift+Enthusiast;%F0%9F%8C%9F+Let's+code+together!" alt="Typing SVG" />
 </div>
 
-<!-- 🎨 Красивый заголовок -->
+<!-- 🎨 Динамический заголовок с анимацией -->
 <div align="center">
   <h2>🚀 iOS Developer | Swift Enthusiast</h2>
+  <p><em>Создаю удивительные приложения для iOS</em></p>
 </div>
 
-<!-- 🎯 Социальные ссылки -->
+<!-- 🎯 Интерактивные социальные ссылки -->
 <div align="center">
   <a href="https://linkedin.com/in/nurislam-kenzheyev22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,6 +20,9 @@
   </a>
   <a href="mailto:n.kenzheyev@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nurislam-kenzheyev22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -34,6 +38,8 @@
   <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Core_Data-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data" />
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=swift&logoColor=white" alt="MVVM" />
 </div>
 
 ---
@@ -51,6 +57,7 @@
 | **Мой вклад:** |
 | ✅ Разработка Onboarding модуля |
 | ✅ Создание пользовательского интерфейса |
+| ✅ Интеграция с API |
 | [🔗 Открыть проект](https://github.com/00giemensch/BestRecipes) |
 
 </div>
@@ -63,21 +70,29 @@
 |---|
 | **Игра "Кто хочет стать миллионером" для iOS** |
 | ![Swift](https://img.shields.io/badge/Swift-5.0-orange) ![iOS](https://img.shields.io/badge/iOS-14.0+-blue) |
+| ✅ Полная игровая логика |
+| ✅ Красивый UI/UX |
+| ✅ Звуковые эффекты |
 | [🔗 Открыть проект](https://github.com/vvp-off/Game-Millionaire) |
 
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 Динамическая статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurislam-kenzheyev22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam-kenzheyev22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurislam-kenzheyev22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam-kenzheyev22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurislam-kenzheyev22&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<!-- 🎯 Дополнительная статистика -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nurislam-kenzheyev22&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -115,7 +130,15 @@
 
 ---
 
-## 🎨 Анимации и эффекты
+## ⏰ Время кодинга
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/your-username/project/project-name.svg" alt="Wakatime" />
+</div>
+
+---
+
+## 🎨 Продвинутые анимации
 
 <div align="center">
 
@@ -131,6 +154,12 @@
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
 }
 ```
 
@@ -159,3 +188,10 @@
   <br/>
   <em style="color: #666;">*Последнее обновление: Август 2024*</em>
 </div>
+
+<!-- 🔍 SEO оптимизация -->
+<!-- 
+  Keywords: iOS Developer, Swift, UIKit, SwiftUI, iOS Development, Kazakhstan, Almaty, IITU
+  Description: iOS Developer from Kazakhstan, passionate about Swift, UIKit, and SwiftUI development
+  Author: Nurislam Kenzheyev
+-->

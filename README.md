@@ -26,8 +26,8 @@
 **DevRush** - Started: June 30, 2025
 
 ### Projects
-**BestRecipes** - Recipe app (Swift, UIKit)  
-**Game-Millionaire** - Quiz game (Swift, UIKit)
+**BestRecipes** - Recipe app (Swift, UIKit) - [View Project](https://github.com/00giemensch/BestRecipes)  
+**Game-Millionaire** - Quiz game (Swift, UIKit) - [View Project](https://github.com/vvp-off/Game-Millionaire)
 
 ### About Me
 **Education:** 4th Year Software Engineering (IITU)  

@@ -78,6 +78,4 @@ print("🚀 iOS Developer | Swift Enthusiast")
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nurislam-kenzheyev22&style=flat-square&color=FF6B35" alt="Profile Views" />
-  <br/>
-  <em style="color: #666;">*Last updated: August 2024*</em>
 </div>

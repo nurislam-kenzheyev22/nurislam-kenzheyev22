@@ -26,11 +26,9 @@
 ### 📚 Current Learning
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   
-**MobyDev iOS Developer**  
-*Started: August 25, 2025*
+**MobyDev iOS Developer** - Started: August 25, 2025
 
-**DevRush**  
-*Started: June 30, 2025*
+**DevRush** - Started: June 30, 2025
 
 </div>
 

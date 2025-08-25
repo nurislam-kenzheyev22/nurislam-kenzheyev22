@@ -13,11 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Hello%2C+World!+I'm+Nurislam!;%F0%9F%8E%AD+iOS+Developer;%F0%9F%9A%80+Swift+Enthusiast;%F0%9F%8C%9F+Creating+Awesome+Apps!" alt="Typing SVG" />
 </div>
 
-```swift
-print("Hello, World! I'm Nurislam!")
-print("🚀 iOS Developer | Swift Enthusiast")
-```
-
 <div align="center">
   <p><em>Creating beautiful iOS applications with passion and creativity</em></p>
 </div>
@@ -32,8 +27,8 @@ print("🚀 iOS Developer | Swift Enthusiast")
 |---|---|
 | **🟢 Available for iOS projects** | **🍳 BestRecipes** - iOS app for recipes |
 | **📚 Currently learning SwiftUI** | ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) |
-| **🎯 Goal: 100 Days of Code** | [🔗 View](https://github.com/00giemensch/BestRecipes) |
-| **🔥 Current streak: Day 1/100** | **🎮 Game-Millionaire** - Quiz game |
+| | [🔗 View](https://github.com/00giemensch/BestRecipes) |
+| | **🎮 Game-Millionaire** - Quiz game |
 | | ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) |
 | | [🔗 View](https://github.com/vvp-off/Game-Millionaire) |
 

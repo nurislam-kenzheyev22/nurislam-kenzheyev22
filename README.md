@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=100&speed=80&color=36BCF7&center=true&vCenter=true&width=435&lines=%20%20%20%20Hello%2C%20World!;%20%20%20%20iOS%20Developer%20%26%20Swift;%20%20%20%20MobyDev%20%26%20DevRush%20Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=2000&speed=80&color=36BCF7&center=true&vCenter=true&width=435&lines=%20%20%20%20Hello%2C%20World!;%20%20%20%20iOS%20Developer%20%26%20Swift;%20%20%20%20MobyDev%20%26%20DevRush%20Student;%20%20%20%20iOS%20Developer%20%26%20Swift;%20%20%20%20MobyDev%20%26%20DevRush%20Student" alt="Typing SVG" />
 </div>
 
 

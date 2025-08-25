@@ -12,43 +12,39 @@
 </div>
 
 <div align="center">
-  <h2 align="center" style="color: #FF6B35; font-family: 'SF Pro Display', sans-serif; font-weight: 600; font-size: 26px;">
-    🚀 iOS Developer & Swift Enthusiast
-  </h2>
-  <p align="center" style="color: #FF6B35; font-family: 'SF Pro Display', sans-serif; font-size: 18px;">
-    Creating Beautiful iOS Applications with Passion
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=26&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&backspace=true&repeat=true&lines=Hello%2C+World!+I'm+Nurislam!;%F0%9F%8E%AD+iOS+Developer+%26+Swift+Enthusiast;%F0%9F%9A%80+Passionate+About+Mobile+Development;%F0%9F%8C%9F+Creating+Beautiful+iOS+Applications!" alt="Typing SVG" />
 </div>
 
 
 
 ---
 
-## 🎯 Current Status | 📱 Projects | 👨‍💻 About | 📞 Contact
+## 📱 iOS Developer Profile
 
 <div align="center">
 
-| 🎯 **Status** | 📱 **Apps** |
-|---|---|
-| **🟢 Available for iOS projects** | **🍳 BestRecipes** - iOS app for recipes |
-| **📚 Currently learning SwiftUI** | ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) |
-| | [🔗 View](https://github.com/00giemensch/BestRecipes) |
-| | **🎮 Game-Millionaire** - Quiz game |
-| | ![Swift](https://img.shields.io/badge/Swift-5.0-FF6B35?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14.0+-000000?style=flat&logo=apple&logoColor=white) |
-| | [🔗 View](https://github.com/vvp-off/Game-Millionaire) |
+### 🎯 Status
+```
+📚 Course: MobyDev iOS Developer
+Started: August 25, 2025
 
-</div>
+🚀 Course: DevRush  
+Started: June 30, 2025
+```
 
----
+### 📱 Apps
+```
+🍳 BestRecipes - Recipe app (Swift, UIKit)
+🎮 Game-Millionaire - Quiz game (Swift, UIKit)
+```
 
-<div align="center">
-
-| 👨‍💻 **About Me** | 🎨 **Interests** |
-|---|---|
-| **🎓 4th Year Software Engineering** | **♟️ Chess Master** |
-| **🌍 Almaty, Kazakhstan** | **🏐 Volleyball Player** |
-| **📚 Learning: Swift, UIKit, SwiftUI** | **🎨 UI/UX Design Enthusiast** |
-| **🎯 Passionate about iOS Development** | **📖 Tech Books Reader** |
+### 👨‍💻 About
+```
+🎓 4th Year Software Engineering (IITU)
+🌍 Location: Almaty, Kazakhstan
+♟️ Chess Player
+🏐 Volleyball Player
+```
 
 </div>
 

@@ -19,37 +19,20 @@
 
 ---
 
-## 🚀 iOS Developer Profile
+## iOS Developer Profile
 
-<div align="center">
-
-### 📚 Current Learning
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  
-**MobyDev iOS Developer** - Started: August 25, 2025
-
+### Current Learning
+**MobyDev iOS Developer** - Started: August 25, 2025  
 **DevRush** - Started: June 30, 2025
 
-</div>
-
-### 📱 Projects
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-
+### Projects
 **BestRecipes** - Recipe app (Swift, UIKit)  
 **Game-Millionaire** - Quiz game (Swift, UIKit)
 
-</div>
-
-### 👨‍💻 About Me
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-
+### About Me
 **Education:** 4th Year Software Engineering (IITU)  
 **Location:** Almaty, Kazakhstan  
 **Interests:** Chess Player, Volleyball Player
-
-</div>
-
-</div>
 
 ---
 

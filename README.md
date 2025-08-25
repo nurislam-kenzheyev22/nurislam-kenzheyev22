@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;%F0%9F%8E%AD+iOS+Developer;%F0%9F%9A%80+Swift+Enthusiast;%F0%9F%8C%9F+Let's+code+together!" alt="Typing SVG" />
 </div>
 
-<!-- 🎨 Анимированный фон с градиентом -->
-<div align="center" style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin: 0;">🚀 iOS Developer | Swift Enthusiast</h2>
+<!-- 🎨 Красивый заголовок -->
+<div align="center">
+  <h2>🚀 iOS Developer | Swift Enthusiast</h2>
 </div>
 
-<!-- 🎯 Интерактивные социальные ссылки -->
+<!-- 🎯 Социальные ссылки -->
 <div align="center">
   <a href="https://linkedin.com/in/nurislam-kenzheyev22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,43 +41,30 @@
 ## 📱 Мои проекты
 
 ### 🍳 BestRecipes
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>🍳 BestRecipes</strong><br/>
-        <em>iOS приложение для поиска и сохранения рецептов с удобным интерфейсом</em><br/>
-        <img src="https://img.shields.io/badge/Swift-5.0-orange" alt="Swift" />
-        <img src="https://img.shields.io/badge/iOS-14.0+-blue" alt="iOS" />
-        <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-        <br/><br/>
-        <strong>Мой вклад:</strong><br/>
-        ✅ Разработка Onboarding модуля<br/>
-        ✅ Создание пользовательского интерфейса<br/><br/>
-        <a href="https://github.com/00giemensch/BestRecipes" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Открыть_проект-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Открыть проект" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| 🍳 BestRecipes |
+|---|
+| **iOS приложение для поиска и сохранения рецептов с удобным интерфейсом** |
+| ![Swift](https://img.shields.io/badge/Swift-5.0-orange) ![iOS](https://img.shields.io/badge/iOS-14.0+-blue) ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white) |
+| **Мой вклад:** |
+| ✅ Разработка Onboarding модуля |
+| ✅ Создание пользовательского интерфейса |
+| [🔗 Открыть проект](https://github.com/00giemensch/BestRecipes) |
+
 </div>
 
 ### 🎮 Game-Millionaire
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>🎮 Game-Millionaire</strong><br/>
-        <em>Игра "Кто хочет стать миллионером" для iOS</em><br/>
-        <img src="https://img.shields.io/badge/Swift-5.0-orange" alt="Swift" />
-        <img src="https://img.shields.io/badge/iOS-14.0+-blue" alt="iOS" />
-        <br/><br/>
-        <a href="https://github.com/vvp-off/Game-Millionaire" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Открыть_проект-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Открыть проект" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| 🎮 Game-Millionaire |
+|---|
+| **Игра "Кто хочет стать миллионером" для iOS** |
+| ![Swift](https://img.shields.io/badge/Swift-5.0-orange) ![iOS](https://img.shields.io/badge/iOS-14.0+-blue) |
+| [🔗 Открыть проект](https://github.com/vvp-off/Game-Millionaire) |
+
 </div>
 
 ---
@@ -128,10 +115,10 @@
 
 ---
 
-## 🎨 Партиклы и анимации
+## 🎨 Анимации и эффекты
 
 <div align="center">
-  
+
 ```css
 /* Анимированные партиклы */
 @keyframes float {
@@ -172,49 +159,3 @@
   <br/>
   <em style="color: #666;">*Последнее обновление: Август 2024*</em>
 </div>
-
-<!-- 🎨 CSS для анимаций (работает в GitHub) -->
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
-/* Анимации для элементов */
-img[alt*="Swift"], img[alt*="iOS"], img[alt*="Xcode"], img[alt*="UIKit"], img[alt*="SwiftUI"], img[alt*="Git"], img[alt*="GitHub"] {
-  animation: pulse 2s infinite;
-  transition: transform 0.3s ease;
-}
-
-img[alt*="Swift"]:hover, img[alt*="iOS"]:hover, img[alt*="Xcode"]:hover, img[alt*="UIKit"]:hover, img[alt*="SwiftUI"]:hover, img[alt*="Git"]:hover, img[alt*="GitHub"]:hover {
-  transform: scale(1.1);
-}
-
-/* Анимация для таблиц */
-table {
-  animation: float 6s ease-in-out infinite;
-}
-
-/* Градиентный текст */
-h1, h2 {
-  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
-  background-size: 400% 400%;
-  animation: gradient 3s ease infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-</style>

@@ -22,7 +22,7 @@
 ## iOS Developer Profile
 
 ### Current Learning
-**MobyDev iOS Developer** - Started: August 26, 2025  
+**MobyDev iOS Developer** - Started: August 25, 2025  
 **DevRush** - Started: June 30, 2025
 
 ### Projects
